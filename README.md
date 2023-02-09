@@ -27,8 +27,6 @@ sobre o banco de dados:
 
   estas chaves são códigos únicos utilizadas também para um possível referenciamento em outra tabela, assumindo o papel de chave estrangeira. No modelo lógico é possível ver as tabelas, suas respectivas chaves e o tipo de dado a ser recebido.
 
-</br>
-<img alt="modelo conceitual" width="100%" src="https://github.com/marcelo-souto/modelagem-dados-mysql/blob/main/modelo_logico.jpg?raw=true" />
 
 - Como essas entidades estão relacionadas?        
   *curso* tem *turma*,              
