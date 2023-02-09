@@ -1,6 +1,6 @@
 # Banco_de_Dados
 
-# Modelagem e banco de dados em MySQL
+
 
 Trabalho acadêmico cujo a proposta é desenvolver um banco de dados para uma escola.
 Durante o projeto foi desenvolvido um modelo conceitual, lógico e o próprio banco no MySQL utilizando o <a href="https://dev.mysql.com/doc/">MySQL Workbench</a>.
